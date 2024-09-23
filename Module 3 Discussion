@@ -1,1 +1,22 @@
 
+public class Octopus 
+{
+  public long OctopusPolymorphism;
+}
+
+
+{
+  public void OctopusPolymorphism() 
+  {
+    Console.WriteLine("Octopus will release ink");
+  }
+}
+
+class Program 
+{
+  static void Main(string[] args) 
+  {Octopus = OctopusPolymorphism{};
+  
+  }
+}
+
